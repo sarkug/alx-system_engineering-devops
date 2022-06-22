@@ -17,4 +17,6 @@ A script that creates a directory
 
 A script to move file betty
 
-A script to delete betty   
+A script to delete betty
+
+A script to delete my_first_directory   
