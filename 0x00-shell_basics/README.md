@@ -27,4 +27,6 @@ A script to list a number of directories
 
 A script to get the file details 
 
-A script to create a symlink  
+A script to create a symlink
+
+A script to copy html files to parent dir  
