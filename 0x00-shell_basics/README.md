@@ -12,3 +12,5 @@ A script that displays directory contents
 	. long format
 	. with user and group IDs displayed numericlly
 	. And hidden files
+
+A script that creates a directory  
