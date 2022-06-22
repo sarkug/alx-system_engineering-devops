@@ -21,4 +21,6 @@ A script to delete betty
 
 A script to delete my_first_directory
 
-A script to go to previous directory   
+A script to go to previous directory
+
+A script to list a number of directories   
