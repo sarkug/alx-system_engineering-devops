@@ -19,4 +19,6 @@ A script to move file betty
 
 A script to delete betty
 
-A script to delete my_first_directory   
+A script to delete my_first_directory
+
+A script to go to previous directory   
