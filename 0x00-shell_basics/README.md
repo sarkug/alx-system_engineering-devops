@@ -25,4 +25,6 @@ A script to go to previous directory
 
 A script to list a number of directories
 
-A script to get the file details   
+A script to get the file details 
+
+A script to create a symlink  
