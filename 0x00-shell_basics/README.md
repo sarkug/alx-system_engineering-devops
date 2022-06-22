@@ -13,4 +13,6 @@ A script that displays directory contents
 	. with user and group IDs displayed numericlly
 	. And hidden files
 
-A script that creates a directory  
+A script that creates a directory
+
+A script to move files  
